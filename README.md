@@ -4,7 +4,7 @@
   
 <br/>  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Greetings&pause=1000&width=435&lines=%F0%9F%94%AD+Mobile+hacking+is+my+hobby++)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Greetings&pause=1000&width=435&lines=%F0%9F%93%B1+Mobile+hacking+is+my+hobby)](https://git.io/typing-svg)
 
 <br/>  
 
