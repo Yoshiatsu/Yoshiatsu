@@ -1,13 +1,28 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
+## <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Greetings&weight=500&size=30&pause=1000&&center=true&width=435&lines=%3C%F0%9F%91%8B+Hello%2C+World!+%2F%3E)](https://git.io/typing-svg)</div>
+  
+## <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Greetings&pause=1000&repeat=false&width=435&lines=I%2Cm+Yoshiatsu%2C+a+web+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+)](https://git.io/typing-svg)</div>  
+  
+<br/>  
 
-<!--
-**Yoshiatsu/Yoshiatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Greetings&pause=1000&width=435&lines=%F0%9F%94%AD+Mobile+hacking+is+my+hobby++)](https://git.io/typing-svg) 
 
-### <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<br/>  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Greetings&size=30&pause=1000&repeat=false&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Languages+and+Tools++)](https://git.io/typing-svg)
+<div>
+  
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+ ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+ 
+</div>  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yoshiatsu&show_icons=true&locale=en" alt="yoshiatsu" /></p>
+<br/>  
+
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Greetings&size=30&pause=1000&repeat=false&width=435&lines=%E2%9A%A1+Github+Stats++)](https://git.io/typing-svg)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yoshiatsu&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>
